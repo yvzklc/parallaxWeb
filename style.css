@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+section .bg1 {
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url(./img/bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section .bg1 h1{
+    background-color: rgb(44, 41, 41);
+    padding: 20px;
+    width: 25vw;
+    text-align: center;
+    border-radius: 30px 0 30px 0 ;
+    outline: 10px solid purple;
+    outline-offset: 1rem;
+    font-size: 3rem;
+    color: white;
+    letter-spacing: 4px;
+}
+
+section .bg2 {
+    text-align: center;
+    height: 26vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.6rem;
+}
+section .course-logo{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url(./img/bg3.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+section .course-logo img{
+    width: 35rem;
+}
+section .bg3 {
+    text-align: center;
+    height: 26vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.6rem;
+    background-color: #282E34;
+    color: white;
+}
+
+
+section .aws-slogan h3{
+    background-color: rgb(44, 41, 41);
+    padding: 20px;
+    width: 30vw;
+    text-align: center;
+    border-radius: 30px 0 30px 0 ;
+    outline: 10px solid purple;
+    outline-offset: 1rem;
+    font-size: 1.8rem;
+    color: white;
+    letter-spacing: 4px;
+}
+
+section .aws-slogan{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url(./img/bg2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+section .aws-slogan img{
+    width: 35rem;
+}
+section .bg4 {
+    text-align: center;
+    height: 26vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.6rem;
+    background-color: white;
+    color: black;
+}
+
+
+
+section .aws-slogan1{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url(./img/bg1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+section .bg5 {
+    text-align: center;
+    height: 26vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.6rem;
+    background-color: #282E34;
+    color: white;
+}
+
+
+
+section .aws-slogan2{
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)),url(./img/bg4.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
